@@ -17,5 +17,5 @@ A comparative study on object recognition using a scratch-built Convolutional Ne
 ## 🛠️ How to Run
 1. Clone the repo.
 2. Install dependencies: `pip install -r requirements.txt`.
-3. Run `08_custom_cnn.ipynb` for the scratch model.
-4. Run `09_transfer_learning.ipynb` for the ResNet model.
+3. Run `cifar10_cnn.ipynb` for the scratch model.
+4. Run `resnet_transfer_learning.ipynb` for the ResNet model.
