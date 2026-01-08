@@ -1,0 +1,19 @@
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Data & Models (IMPORTANT)
+data/
+*.pth
+*.pkl
+
+# Environments
+ai_vision/
+venv/
+
+# System
+.DS_Store
+Thumbs.db
